@@ -74,7 +74,7 @@ are actually continuing the same work.
 
 There is also `context_compact`, which asks for a compaction when the host
 exposes a compaction service. Where that service is not on the plugin's plane
-(common), it only records the checkpoint and says so plainly instead of pretending.
+(which is common), it only records the checkpoint and says so plainly instead of pretending.
 
 ---
 
